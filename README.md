@@ -2,6 +2,10 @@
 
 A React.js-based e-commerce web application developed as an academic project.
 
+## Project Preview
+
+![React Online Store](online-store.png)
+
 ## Features
 
 - User Login and Signup
