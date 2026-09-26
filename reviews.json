@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "id": 1777655043921,
+      "productId": 24,
+      "username": "Asma",
+      "rating": 5,
+      "comment": "",
+      "date": "2026-05-01T17:04:03.921Z"
+    },
+    {
+      "id": 1777976447149,
+      "productId": 2,
+      "username": "zarish",
+      "rating": 5,
+      "comment": "nice",
+      "date": "2026-05-05T10:20:47.149Z"
+    },
+    {
+      "id": 1777976928002,
+      "productId": 15,
+      "username": "zarish",
+      "rating": 5,
+      "comment": "nice",
+      "date": "2026-05-05T10:28:48.002Z"
+    }
+  ]
+}

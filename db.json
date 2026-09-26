@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Leather Jacket",
+      "price": 149,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Slim Fit Jeans",
+      "price": 59,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Cotton Polo Shirt",
+      "price": 39,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1586363104869-3c0c2f6c2c3c?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 89,
+      "category": "footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "price": 199,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Earbuds",
+      "price": 79,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 7,
+      "name": "Women's Floral Dress",
+      "price": 89,
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1496747611176-8433c1d9b5e4?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 8,
+      "name": "Women's Handbag",
+      "price": 129,
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 9,
+      "name": "Sunglasses",
+      "price": 49,
+      "category": "accessory",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 10,
+      "name": "Backpack",
+      "price": 69,
+      "category": "accessory",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 11,
+      "name": "Men's Hoodie",
+      "price": 55,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 12,
+      "name": "Women's Sneakers",
+      "price": 79,
+      "category": "footwear",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 13,
+      "name": "Leather Wallet",
+      "price": 29,
+      "category": "accessory",
+      "image": "https://images.unsplash.com/photo-1606503825008-909a67e63c3d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 14,
+      "name": "Gaming Mouse",
+      "price": 49,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 15,
+      "name": "Mechanical Keyboard",
+      "price": 89,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 16,
+      "name": "Women's Scarf",
+      "price": 19,
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1520903928025-1e84d9b8e2f0?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 17,
+      "name": "Men's Dress Shoes",
+      "price": 99,
+      "category": "footwear",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 18,
+      "name": "Yoga Mat",
+      "price": 25,
+      "category": "accessory",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 19,
+      "name": "Women's Blouse",
+      "price": 45,
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 20,
+      "name": "Men's T-Shirt",
+      "price": 25,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 21,
+      "name": "Tablet",
+      "price": 399,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 22,
+      "name": "Women's Watch",
+      "price": 89,
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 23,
+      "name": "Men's Shorts",
+      "price": 29,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 24,
+      "name": "Women's Heels",
+      "price": 69,
+      "category": "footwear",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 25,
+      "name": "Cap",
+      "price": 19,
+      "category": "accessory",
+      "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 26,
+      "name": "Women's Leggings",
+      "price": 39,
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1584448687009-88f9c3aea303?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 27,
+      "name": "Bluetooth Speaker",
+      "price": 59,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 28,
+      "name": "Women's Earrings",
+      "price": 15,
+      "category": "accessory",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 29,
+      "name": "Men's Jacket",
+      "price": 119,
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 30,
+      "name": "Smartphone",
+      "price": 699,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=300&h=300&fit=crop"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1777868707964,
+      "customer": {
+        "name": "Ayesha Noor",
+        "address": "house 123",
+        "payment": "credit"
+      },
+      "items": [
+        {
+          "id": 12,
+          "name": "Women's Sneakers",
+          "price": 79,
+          "category": "footwear",
+          "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=300&h=300&fit=crop",
+          "quantity": 1
+        },
+        {
+          "id": 17,
+          "name": "Men's Dress Shoes",
+          "price": 99,
+          "category": "footwear",
+          "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=300&h=300&fit=crop",
+          "quantity": 1
+        },
+        {
+          "id": 14,
+          "name": "Gaming Mouse",
+          "price": 49,
+          "category": "electronics",
+          "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&h=300&fit=crop",
+          "quantity": 1
+        },
+        {
+          "id": 21,
+          "name": "Tablet",
+          "price": 399,
+          "category": "electronics",
+          "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=300&h=300&fit=crop",
+          "quantity": 1
+        }
+      ],
+      "total": 626,
+      "date": "2026-05-04T04:25:07.964Z"
+    },
+    {
+      "id": 1777976634343,
+      "customer": {
+        "name": "Zarish",
+        "address": "zarish123",
+        "payment": "credit"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Classic Leather Jacket",
+          "price": 149,
+          "category": "men",
+          "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=300&h=300&fit=crop",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Running Shoes",
+          "price": 89,
+          "category": "footwear",
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop",
+          "quantity": 1
+        }
+      ],
+      "total": 238,
+      "date": "2026-05-05T10:23:54.343Z"
+    },
+    {
+      "id": 1777976960151,
+      "customer": {
+        "name": "zarish",
+        "address": "zarish111",
+        "payment": "credit"
+      },
+      "items": [
+        {
+          "id": 2,
+          "name": "Slim Fit Jeans",
+          "price": 59,
+          "category": "men",
+          "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=300&h=300&fit=crop",
+          "quantity": 1
+        }
+      ],
+      "total": 59,
+      "date": "2026-05-05T10:29:20.151Z"
+    }
+  ]
+}

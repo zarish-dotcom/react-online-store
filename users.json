@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1777648008747,
+      "username": "zarish",
+      "password": "$2b$10$/GLLrNT0C/QTJIODTJF.VelgvFL.NrzivKR6yFRSQGKrVwkv4bB0m"
+    },
+    {
+      "id": 1777655007028,
+      "username": "Asma",
+      "password": "$2b$10$hmyyhijft4PfsVzHEMMMV.VuuRz0oZSMWWKMP4es12MkBkx2Bb32e"
+    },
+    {
+      "id": 1777868630973,
+      "username": "Ayesha",
+      "password": "$2b$10$dRsML9Gd7uJ6Dfdr/Y05VOTNmEhRxXWYYuhx6KatZfl4CbPsIRryS",
+      "isAdmin": false
+    },
+    {
+      "id": 1777976480930,
+      "username": "Aiman",
+      "password": "$2b$10$IrON6ap9jO36XGINb4J91enb6xvxelSzl0Fn2kx9Sd6mmitEgMXSO",
+      "isAdmin": false
+    },
+    {
+      "id": 1780212914347,
+      "username": "ramzia",
+      "password": "$2b$10$BlpxFvOxMj.P4oxMyfjLLOl8FlVc9fQz78dotqhZxULKqumojJxOG",
+      "isAdmin": false
+    }
+  ]
+}
